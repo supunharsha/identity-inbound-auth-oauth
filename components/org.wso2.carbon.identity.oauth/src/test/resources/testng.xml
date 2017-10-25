@@ -173,6 +173,7 @@
         <classes>
             <class name="org.wso2.carbon.identity.oauth2.authz.handlers.AbstractResponseTypeHandlerTest"/>
             <class name="org.wso2.carbon.identity.oauth2.authz.handlers.TokenResponseTypeHandlerTest"/>
+            <class name="org.wso2.carbon.identity.oauth2.authz.AuthorizationHandlerManagerTest"/>
         </classes>
     </test>
     <test name="org.wso2.carbon.identity.oauth2.authz.debug">
@@ -180,6 +181,7 @@
         <classes>
             <class name="org.wso2.carbon.identity.oauth2.authz.handlers.AbstractResponseTypeHandlerTest"/>
             <class name="org.wso2.carbon.identity.oauth2.authz.handlers.TokenResponseTypeHandlerTest"/>
+            <class name="org.wso2.carbon.identity.oauth2.authz.AuthorizationHandlerManagerTest"/>
         </classes>
     </test>
     <test name="org.wso2.carbon.identity.oauth2.listener">
